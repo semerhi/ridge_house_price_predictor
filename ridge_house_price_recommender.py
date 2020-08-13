@@ -4,6 +4,7 @@
 import pandas as pd
 import pickle
 import numpy as np
+import math
 
 # modelop.init
 def begin():
